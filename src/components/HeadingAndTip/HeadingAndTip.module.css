@@ -1,0 +1,48 @@
+.container {
+    margin: 0 50px;
+    margin-top: 70px;
+}
+.headingSmall {
+    font-size: 14px;
+    font-weight: bold;
+    color: #8d8d8d;
+}
+
+.headingLarge {
+    color: #0083f2;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.para {
+    color: #707070;
+    font-size: 15px;
+}
+.tipWrap {
+    background-color: #ebf6ff;
+    padding: 20px;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-left: 15%;
+}
+.tipHeading {
+    color: #0083f2;
+    font-weight: bold;
+    font-size: 20px;
+}
+.tipPara {
+    color: #464646;
+    font-size: 12px;
+    line-height: 1.5;
+    margin-top: 15px;
+}
+.hand {
+    height: 70px;
+}
+.tipWrapInner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
